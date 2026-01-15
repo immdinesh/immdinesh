@@ -12,7 +12,7 @@
 - 🎓 B.Tech IT student at **Delhi Technological University (DTU)**
 - 🚀 MERN Stack Developer | Frontend Focused | Problem Solver
 - 🧠 Strong in **DSA, C++, JavaScript, React**
-- 🔭 Currently working on **full-stack projects & system design**
+- 🔭 Currently working on **full-stacak projects & system design**
 - 🌱 Learning **Advanced React, Backend Architecture & GenAI basics**
 - 💡 I love building products that solve real problems, not just demos
 
@@ -113,26 +113,17 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=immdinesh&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
+![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=immdinesh&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=immdinesh&theme=tokyonight" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=immdinesh&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immdinesh&layout=compact&theme=tokyonight" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immdinesh&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=immdinesh&show_icons=true&theme=tokyonight" />
-
-</p>
+![trophy](https://github-profile-trophy.vercel.app/?username=immdinesh&theme=onedark&no-frame=true&row=1)
 
 ---
 
