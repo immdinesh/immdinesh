@@ -111,21 +111,21 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Overview
 
-![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=immdinesh&show_icons=true&theme=tokyonight)
+<p align="left">
+  <img src="https://img.shields.io/github/followers/immdinesh?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/immdinesh?label=Total%20Stars&style=for-the-badge" />
+  <img src="https://img.shields.io/github/repos/immdinesh?label=Public%20Repos&style=for-the-badge" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=immdinesh&theme=tokyonight)
+<p align="left">
+  <img src="https://img.shields.io/badge/Code-C++-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-MERN-orange?style=for-the-badge" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immdinesh&layout=compact&theme=tokyonight)
-
----
-
-### 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=immdinesh&theme=onedark&no-frame=true&row=1)
-
----
 
 ### 💬 Quote I Live By
 
